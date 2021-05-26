@@ -1,0 +1,6 @@
+stormtrooper,BN-749,21
+stormtrooper,JJR-579,34
+stormtrooper,JTN-303,18
+stormtrooper,FN-2199,23
+deathtrooper,DT-L21,27
+deathtrooper,DT-5537,26
